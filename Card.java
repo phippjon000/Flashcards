@@ -1,3 +1,4 @@
+// A class representing a single Flashcard
 public class Card {
    private String question;
    private String answer;

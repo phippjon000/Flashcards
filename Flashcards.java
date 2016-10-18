@@ -1,3 +1,4 @@
+// A class that runs the main Flashcards loop
 import java.util.*;
 import java.io.*;
 

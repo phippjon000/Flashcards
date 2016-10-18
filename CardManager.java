@@ -1,3 +1,6 @@
+// A class that manages a list of cards initialized
+// from a file. The file is layed out like:
+// "question","answer"
 import java.util.*;
 import java.io.*;
 
